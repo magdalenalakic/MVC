@@ -2,10 +2,6 @@
 # KLINICKI CENTAR SRBIJE 
 Fakultetski projekat iz predmeta Napredna internet infrastruktura i Projektovanje softvera.
 
-
-# Rent-A-Car - XWS projekat
-Fakultetski projekat iz XML i WS.
-
 ## Pokretanje aplikacije:
 ### Koraci za pokretanje backend aplikacije:
 1. importovati projekat u Eclipse sa podrskom za Maven project
